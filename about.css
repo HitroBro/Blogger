@@ -11,7 +11,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Header Styles */
 header {
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -51,14 +50,12 @@ header {
     color: #3498db;
 }
 
-/* Container */
 .container {
     max-width: 1200px;
     margin: 2rem auto;
     padding: 0 1rem;
 }
 
-/* About Header */
 .about-header {
     text-align: center;
     padding: 4rem 2rem;
@@ -81,7 +78,6 @@ header {
     margin: 0 auto;
 }
 
-/* Our Story Section */
 .our-story {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -107,7 +103,6 @@ header {
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
-/* Our Values Section */
 .our-values {
     margin-bottom: 4rem;
 }
@@ -149,7 +144,6 @@ header {
     margin-bottom: 1rem;
 }
 
-/* Team Section */
 .team {
     margin-bottom: 4rem;
 }
@@ -209,7 +203,6 @@ header {
     color: #2c3e50;
 }
 
-/* Footer Styles */
 footer {
     background-color: #2c3e50;
     color: #fff;
@@ -272,7 +265,6 @@ footer {
     font-size: 1.2rem;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
